@@ -1,6 +1,8 @@
 # tracking_GUI
 Program suite in Matlab for tracking and analysing single-molecule fluorescence assays on molecular motors.
 
+This software was developed during a PhD project at E22 physics department of the Technical University of Munich by Willi L. Stepp.
+
 The parfor_progress package might be needed 
 https://de.mathworks.com/matlabcentral/fileexchange/32101-progress-monitor-progress-bar-that-works-with-parfor
 
